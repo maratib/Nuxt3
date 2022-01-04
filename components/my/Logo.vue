@@ -5,6 +5,7 @@
       src="@/assets/img/logo.svg"
       alt="Workflow"
     />
+    
     <img
       class="hidden lg:block h-8 w-auto text-white"
       src="@/assets/img/logo.svg"
