@@ -1,8 +1,7 @@
 <template>
   <div>
-    <UserMenu />
-    <div class="container mx-auto mt-8">
-      <slot />
-    </div>
+    <my-nav-bar class="bg-gray-800" />
+
+    <slot />
   </div>
 </template>
